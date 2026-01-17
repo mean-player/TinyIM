@@ -107,12 +107,7 @@ spring.mail.password=your_email_auth_code
     ./mvnw spring-boot:run
     ```
 
-## 📖 API Documentation
 
-Once the application is running, you can access the interactive API documentation at:
-
-*   **Knife4j UI**: `http://localhost:8090/doc.html`
-*   **Swagger UI**: `http://localhost:8090/swagger-ui/index.html`
 
 ## 📂 Project Structure
 
